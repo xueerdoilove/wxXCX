@@ -1,0 +1,60 @@
+<!--pages/library/library.wxml-->
+<import src="/template/navigation/nav.wxml" />
+<template is="navigation" data="{{nav:nav}}" />
+<view class='bHead'></view>
+<view style='height:70px;'></view>
+<view class='shujia' >
+  <view class='books {{bookiphone5}}'>
+    <view class='book bactive'>
+      <text class='bookname'>唐朝迷失之我是李世民</text>
+      <text class='bookauther'>李广</text>
+    </view>
+    <view class='book bfinish'></view>
+    <view class='book'></view>
+    <view class='book' style="margin-right:0;"></view>
+  </view>
+  <image src='../../../images/shujia1.png' class='shujia-m'></image>
+  <image src='../../../images/shujia2.png' class='shujia-b'></image>
+</view>
+
+<view class='shujia' >
+  <view class='books {{bookiphone5}}'>
+    <view class='book bactive'>
+      <text class='bookname'>唐朝迷失之我是李世民</text>
+      <text class='bookauther'>李广</text>
+    </view>
+    <view class='book bfinish'></view>
+    <view class='book'></view>
+    <view class='book' style="margin-right:0;"></view>
+  </view>
+  <image src='../../../images/shujia1.png' class='shujia-m'></image>
+  <image src='../../../images/shujia2.png' class='shujia-b'></image>
+</view>
+
+<view class='shujia' >
+  <view class='books {{bookiphone5}}'>
+    <view class='book bactive'>
+      <text class='bookname'>唐朝迷失之我是李世民</text>
+      <text class='bookauther'>李广</text>
+    </view>
+    <view class='book bfinish'></view>
+    <view class='book'></view>
+    <view class='book' style="margin-right:0;"></view>
+  </view>
+  <image src='../../../images/shujia1.png' class='shujia-m'></image>
+  <image src='../../../images/shujia2.png' class='shujia-b'></image>
+</view>
+
+<view class='shujia' >
+  <view class='books {{bookiphone5}}'>
+    <view class='book bactive'>
+      <text class='bookname'>唐朝迷失之我是李世民</text>
+      <text class='bookauther'>李广</text>
+    </view>
+    <view class='book bfinish'></view>
+    <view class='book'></view>
+    <view class='book' style="margin-right:0;"></view>
+  </view>
+  <image src='../../../images/shujia1.png' class='shujia-m'></image>
+  <image src='../../../images/shujia2.png' class='shujia-b'></image>
+</view>
