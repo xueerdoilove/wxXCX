@@ -57,5 +57,9 @@ Page({
       url: "../library/library"
     })
   },
-  
+  gotobank: function (event) {
+    wx.navigateTo({
+      url: "../bank/bank"
+    })
+  },
 });

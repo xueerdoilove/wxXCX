@@ -1,6 +1,7 @@
 {
   "pages": [
     "pages/index/index",
+    "pages/bank/bank",
     "pages/charts/charts",
     "pages/library/library",
     "pages/challenge/answer/answer",

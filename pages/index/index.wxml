@@ -51,7 +51,7 @@
         <text class='lg wz2'>排行榜</text>
       
       </view>
-      <view class='bank'>
+      <view class='bank' bindtap='gotobank'>
         <text class='lg wz1'>银行</text>
         <button class='free'>免费领取</button>
       </view>
